@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F9F491B-B4AB-417B-AB7B-A64FA0020915"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookFinderWithAlamoFire/MainTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - b5f0e14ef411f5f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; BookFinderWithAlamoFire.MainTableViewController"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - 6f5a76fd2c2adea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.init(style: __C.UITableViewStyle) -&gt; BookFinderWithAlamoFire.MainTableViewController"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - 5b99f8d5c1fc05d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BookFinderWithAlamoFire.MainTableViewController"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - b2e77a345fb28670"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BookFinderWithAlamoFire.MainTableViewController"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - 9f68f877133feb8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BookFinderWithAlamoFire.MainTableViewController&gt;"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - 2bbbceddeecaecb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BookFinderWithAlamoFire.MainTableViewController&gt;"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "DC17AE8F-E622-46E8-9247-6F21BC024AA8 - ec82bc6cfab6a329"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookFinderWithAlamoFire.MainTableViewController.__deallocating_deinit"
+                  moduleName = "BookFinderWithAlamoFire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hs/Desktop/Nambu_2022/project/MyFirstApp/BookFinderWithAlamoFire/BookFinderWithAlamoFire/MainTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
